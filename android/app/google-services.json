@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635519261148",
+    "project_id": "ecclesia2-dd9cd",
+    "storage_bucket": "ecclesia2-dd9cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635519261148:android:f5bdc3e1b15cd34b1d5719",
+        "android_client_info": {
+          "package_name": "com.example.ludo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSMl79y5s9lJDE1uVdjKBWhs4afNc4Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
